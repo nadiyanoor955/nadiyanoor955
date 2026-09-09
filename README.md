@@ -63,7 +63,8 @@ I am a Computer Science and Engineering graduate with a strong interest in acade
 [DOI →](https://doi.org/10.4018/979-8-3693-4326-5.ch007)
 
 
-View my complete publication list on my portfolio → https://nadiyanoor955.github.io/
+**[View my complete publication list on my portfolio](https://nadiyanoor955.github.io/)**
+
 
 ---
 
@@ -150,7 +151,7 @@ I am interested in teaching and developing knowledge in areas including:
 
 Explore my academic background, research experience, publications, achievements, and professional profile:
 
-**[Visit My Portfolio →](https://nadiyanoor955.github.io/)**
+**[Visit My Portfolio ](https://nadiyanoor955.github.io/)**
 
 ---
 
