@@ -63,7 +63,7 @@ I am a Computer Science and Engineering graduate with a strong interest in acade
 [DOI →](https://doi.org/10.4018/979-8-3693-4326-5.ch007)
 
 
-[View my complete publication list on my portfolio →](YOUR_WEBSITE_URL)
+[View my complete publication list on my portfolio →][(YOUR_WEBSITE_URL](https://nadiyanoor955.github.io/)
 
 ---
 
