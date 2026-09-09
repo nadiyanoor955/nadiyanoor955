@@ -158,7 +158,7 @@ Explore my academic background, research experience, publications, achievements,
 ## 🔗 Connect With Me
 
 * 💼 **LinkedIn:** [Mst. Nadiya Noor](YOUR_LINKEDIN_URL)
-* 🌐 **Portfolio:** [Academic Portfolio]([YOUR_WEBSITE_URL](https://nadiyanoor955.github.io/)
+* 🌐 **Portfolio:** ([My Academic Portfolio])(https://nadiyanoor955.github.io/)
 * 📧 **Email:** [mstnadiyanoor@gmail.com](mailto:mstnadiyanoor@gmail.com)
 
 ---
